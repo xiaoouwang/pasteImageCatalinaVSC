@@ -138,7 +138,7 @@
 	"dependencies": {
 		"copy-paste": "^1.2.0",
 		"fs-extra": "^3.0.1",
-		"moment": "^2.14.1",
+		"moment": "^2.29.2",
 		"upath": "^1.0.0"
 	},
 	"devDependencies": {
